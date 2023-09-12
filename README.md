@@ -1,2 +1,6 @@
 # TrabajosJoselyn
-Trabajos de Joselyn Nieva
+Actividad Nacho Opera
+Realizado por:
+Samuel David Blanco Arango
+Joselyn Nieva Morales
+Alejandro Uran Carrillo
